@@ -1,4 +1,4 @@
-package de.miraisoft.sparetheanimals;
+package com.grantmoyer.sparetheanimals;
 
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;

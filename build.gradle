@@ -14,7 +14,7 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
 version = "${version}"
-group = 'de.miraisoft.loginmessages'
+group = 'com.grantmoyer.loginmessages'
 archivesBaseName = "sparetheanimals-${version_minecraft}"
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
