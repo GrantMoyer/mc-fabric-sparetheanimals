@@ -6,7 +6,8 @@
   "name": "Spare The Animals Fabric",
   "description": "Spare The Animals\nYou don't want to kill animals? Then this mod is right for you.\nThis mod makes zombies drop leather, skeletons drop feathers.\n\nBased on Spare The Animals by Miraisoft and adapted for the Fabric Loader:\n\n - https://github.com/miraisoft-de/mc-forge-sparetheanimals\n- https://www.miraisoft.de/mc-forge-sparetheanimals/",
   "authors": [
-    "Grant Moyer"
+    "Grant Moyer",
+	"Miraisoft"
   ],
   "contact": {
     "homepage": "https://grantmoyer.com/",
